@@ -1,4 +1,4 @@
-# Softwaretestingprojects11x
+# SoftwareTestingProjects11x
 Software projects that i have done with Test plan, Test cases
 
 Project 1- app.vwo.com
