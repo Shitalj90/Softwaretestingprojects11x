@@ -1,7 +1,11 @@
 # SoftwareTestingProjects11x
-Software projects that i have done with Test plan, Test cases
+Created the SDLC information documents
+
+Created the STLC information documents
+
+Created the Test case template documents
+
+Created the Test plan template documents
 
 # Project 1- app.vwo.com
-
-Objective-To test the Login page of app.vwo.com Login & Dashboard
-and generate the Test plan, Test cases
+Created the test cases for the app.vwo.com- Login & Dashboard
